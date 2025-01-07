@@ -1,0 +1,1 @@
+This is a react approach in vite, used to explore 3D sites
